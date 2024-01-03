@@ -11,7 +11,7 @@ class HomematicDriver extends Driver {
             'alarm_motion',
             'measure_luminance'
         ]
-        this.homematicTypes = ['HmIP-SMO-A', 'HmIP-SMO'];
+        this.homematicTypes = ['HmIP-SMO-A', 'HmIP-SMO', 'HmIP-SMO-2'];
         this.log(this.homematicTypes.join(','), 'has been inited');
     }
 
