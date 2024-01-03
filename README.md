@@ -158,3 +158,7 @@ The app uses discovery to find your CCUs on the network. We were only able to te
 # Credits
 
 Thank you [@hobbyquaker](https://github.com/hobbyquaker) for your great work on binrpc, xmlrpc, hm-discover and RedMatic.
+
+# Erweiterungen:
+03.01.2024  C.Weiler    
+* HmIP-SMO-2
