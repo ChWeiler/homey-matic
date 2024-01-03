@@ -1,6 +1,6 @@
 {
   "name": "homeymatic",
-  "version": "x0.19.1.1",
+  "version": "1.19.1",
   "description": "Connect Homematic CCU with Homey",
   "main": "app.js",
   "dependencies": {
